@@ -1,5 +1,5 @@
 // parseInt(document.getElementsByClassName("g47SY ")[1].innerText) * 1000;
-var followers = 14; // Max 183 follows per day
+var followers = 125; // Max 183 follows per day
 var scroll_stuff = document.getElementsByClassName("isgrP")[0];
 
 var start = 0;
